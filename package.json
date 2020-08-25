@@ -1,0 +1,11 @@
+{
+  "name": "LSX-teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gabrielpmesquita/LSX-teste.git",
+  "author": "Gabriel Mesquita <gabrielpmesquita.contato@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
